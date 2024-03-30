@@ -31,7 +31,7 @@ To use the Architect theme:
 Architect will respect the following variables, if set in your site's `_config.yml`:
 
 ```yml
-title: [The title of your site]
+title: [Marijana Kuzeljevic Jovanovic]
 description: [A short description of your site's purpose]
 ```
 
